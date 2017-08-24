@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Article about daily hikes in Colorado"/>
+    <title>Daily Hikes in Colorado</title>
+  </head>
+  <body>
+    <h1>Best Daily Hikes in Colorado</h1>
+    <p>By OFIR ALPERSTEIN</p>
+    <h2>Mount Bierstadt</h2>
+    <a href="https://en.wikipedia.org/wiki/Mount_Bierstadt">
+    <img src="https://static.rootsrated.com/image/upload/s--sGeMXaBm--/t_rr_large_natural/pzstgbl71dkjlkmtybyi.jpg"
+    alt="Picture of Mount Bierstadt" target="_black" width="600px"/>
+    </a>
+    <p>A common mistake many aspiring Colorado hikers make is to target
+      Longs Peak before they have the fitness or experience to stack the odds
+      of a successful summit in their favor. Here’s where Mount Bierstadt comes
+      into play. The popular 14,060’ peak off of Guanella Pass near Georgetown
+      is an accommodating 6-mile round trip along a well-maintained trail.
+      It’s a great starter mountain for those hoping to hike all of Colorado’s
+      58 14,000’ summits (the eponymous 14ers).
+    </p>
+    <p>More experienced hikers can test their mettle on Sawtooth Ridge, a 1-mile
+     stretch of Class 3 rock that connects the summit of Bierstadt with the
+     shoulder of 13,842’ Mount Spaulding and eventually 14,264’ Mount Evans.
+      The typical descent back to Guanella Pass involves bushwhacking through
+       moose-infested swampland, where 7-foot tall willows create a natural garden maze.</p>
+
+    <h3>Backpacking checklist</h3>
+    <ol>
+      <li>Map</li>
+      <li>Compass</li>
+      <li>Sunscreen</li>
+      <li>Sunglasses</li>
+    </ol>
+  </body>
+</html>
